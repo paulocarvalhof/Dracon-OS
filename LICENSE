@@ -1,0 +1,157 @@
+# DRACON OS — LICENSE AGREEMENT
+## Version 1.0
+
+**Effective Date:** July 22, 2026
+
+---
+
+## 1. DEFINITIONS
+
+- **"Software"** means Dracon OS, including all source code, binaries, documentation, and associated files.
+- **"Author"** means Paulo Carvalho and contributors to the Dracon OS project.
+- **"You"** means the individual or entity acquiring a license to use the Software.
+- **"Use"** means to execute, run, or operate the Software on compatible devices.
+
+---
+
+## 2. LICENSE GRANT
+
+The Author grants You a **non-exclusive, non-transferable, revocable license** to:
+
+✅ **PERMITTED:**
+- Use the Software on Android devices running Termux
+- View the source code for educational purposes only
+- Run the Software locally on your personal device
+- Access documentation and tutorials
+
+❌ **NOT PERMITTED:**
+- Modify, alter, or change any source code
+- Create derivative works or forks
+- Redistribute, sublicense, or sell the Software
+- Reverse engineer, decompile, or disassemble the Software
+- Host the Software on servers or provide it as a service
+- Remove or alter copyright notices and license text
+- Use the Software for commercial purposes without explicit written permission
+
+---
+
+## 3. INTELLECTUAL PROPERTY RIGHTS
+
+All intellectual property rights in the Software, including but not limited to:
+- Source code
+- Documentation
+- Icons and graphics
+- Design and architecture
+- Algorithms and methodologies
+
+are retained exclusively by the Author. You acquire no ownership rights to the Software.
+
+---
+
+## 4. RESTRICTIONS
+
+### 4.1 No Modification
+You may not modify, adapt, translate, reverse engineer, decompile, disassemble, or create derivative works based on the Software.
+
+### 4.2 No Distribution
+You may not:
+- Distribute the Software to others
+- Host the Software on public repositories or servers
+- Create mirrors or copies for distribution
+- Include the Software in other products or bundles
+
+### 4.3 No Commercial Use
+You may not use the Software for any commercial purpose, including but not limited to:
+- Selling services or products based on the Software
+- Providing the Software as a managed service
+- Using the Software to develop commercial products
+- Generating revenue directly or indirectly from the Software
+
+### 4.4 No Warranty Modification
+You may not remove, modify, or obscure any warranty disclaimers or license notices.
+
+---
+
+## 5. THIRD-PARTY COMPONENTS
+
+Dracon OS may include open-source components subject to their own licenses:
+- **Openbox** — Box Model Window Manager License
+- **Tint2** — GPLv2
+- **Rofi** — MIT License
+- **TigerVNC** — GPLv2
+- **Bash/Python** — GPL/PSF
+
+Use of these components is governed by their respective licenses. The restrictive terms of this license apply only to original Dracon OS code.
+
+---
+
+## 6. TERMINATION
+
+The Author may terminate your license at any time if you:
+- Violate any terms of this agreement
+- Attempt to modify or redistribute the Software
+- Use the Software for unauthorized purposes
+- Reverse engineer or decompile any portion of the Software
+
+Upon termination, you must immediately cease all use and destroy all copies in your possession.
+
+---
+
+## 7. DISCLAIMER OF WARRANTIES
+
+THE SOFTWARE IS PROVIDED **"AS IS"** WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO:
+- Warranties of merchantability, fitness for a particular purpose, or non-infringement
+- Warranties regarding performance, reliability, or accuracy
+
+The Author makes no guarantees that the Software will be error-free, uninterrupted, or free from viruses.
+
+---
+
+## 8. LIMITATION OF LIABILITY
+
+In no event shall the Author be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to:
+- Loss of data, profits, or business opportunity
+- System failure or data loss
+- Any other damages arising from the use or inability to use the Software
+
+**Total liability shall not exceed $0 (zero dollars).**
+
+---
+
+## 9. GOVERNING LAW
+
+This License Agreement is governed by and construed in accordance with the laws of Brazil, without regard to its conflict of law principles.
+
+---
+
+## 10. SEVERABILITY
+
+If any provision of this License is found to be invalid or unenforceable, the remaining provisions shall continue in full force and effect.
+
+---
+
+## 11. CONTACT & PERMISSIONS
+
+For inquiries regarding:
+- Commercial licensing
+- Modification permissions
+- Redistribution rights
+- Custom agreements
+
+Please contact: **paulocarvalhof@github.com**
+
+---
+
+## 12. ACKNOWLEDGMENT
+
+BY USING THE SOFTWARE, YOU ACKNOWLEDGE THAT:
+- You have read and understood this License
+- You agree to be bound by its terms and conditions
+- You will comply with all restrictions outlined herein
+
+---
+
+**Dracon OS — All Rights Reserved © 2026 Paulo Carvalho**
+
+**Version: 1.0.0**
+**Last Updated: July 22, 2026**
