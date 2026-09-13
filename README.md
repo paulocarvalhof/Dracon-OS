@@ -71,66 +71,68 @@ dracon restart
  
 ---
 
-## 🎮 Jogos disponíveis
+## 🎮 Available Games
 
-- **🐍 Snake** — coma comida, cresça, não bata em si mesmo (WASD/setas)
-- **🧱 Tetris** — empilhe blocos e limpe linhas (← → ↓, espaço = girar)
-- **🏓 Pong** — clássico contra a CPU (W/S)
+- **🐍 Snake** — eat food, grow, don't hit yourself (WASD/arrow keys)
+- **🧱 Tetris** — stack blocks and clear lines (← → ↓, space = rotate)
+- **🏓 Pong** — classic against the CPU (W/S)
 
-Acesse via `dracon-gamehub` ou pelo menu do desktop → **Game Hub**.
+Access via `dracon-gamehub` or through the desktop menu → **Game Hub**.
 
 ---
 
-## 🎨 Paletas de cores disponíveis
+## 🎨 Available Color Palettes
 
-Alpine Red · Ocean Blue · Forest Green · Dracula · Cyberpunk · Sunset ·
-Monochrome · Rose Gold · Nord · Catppuccin · Solarized · Tokyo Night
+Alpine Red · Ocean Blue · Forest Green · Dracula · Cyberpunk · Sunset · Monochrome · Rose Gold · Nord · Catppuccin · Solarized · Tokyo Night
 
-Troque com `dracon-palette` ou pelo menu → **Color Palette**.
+Switch with `dracon-palette` or through the menu → **Color Palette**.
 
 ---
 
 ## 🔐 Racazu Account
 
-Sistema de conta integrado ao Dracon OS, usando Firebase Authentication.
+Account system integrated with Dracon OS, using Firebase Authentication.
 
-```bash
+``bash
 dracon-account
+
 ```
 
-- Criar conta / Login
-- Dados salvos localmente em `~/.dracon/config/session.json`
-- A chave pública do Firebase pode ser customizada em `~/.dracon/config/racazu.env`
+- Create account / Login
+- Data saved locally in `~/.dracon/config/session.json`
+- The Firebase public key can be customized in `~/.dracon/config/racazu.env`
 
-> ⚠️ **Nota de segurança:** `session.json` contém seu token de sessão — nunca compartilhe ou suba esse arquivo pro GitHub (já está no `.gitignore`).
+> ⚠️ **Security Note:** `session.json` contains your session token — never share or upload this file to GitHub (it's already in `.gitignore`).
 
 ---
 
-## 📊 Comandos novos da v1.3.0
+## 📊 New commands in v1.3.0
 
 ```bash
-dracon-taskbar      # Reinicia a barra de tarefas manualmente
-dracon-gamehub      # Abre o Game Hub
-dracon-gamestore    # Abre a Dracon Game Store
-dracon-palette      # Abre o seletor de paletas de cores
-dracon-taskmgr      # Abre o Task Manager
-dracon-account      # Abre o Racazu Account
-dracon fix          # Corrige comandos/atalhos quebrados
+dracon-taskbar # Manually resets the taskbar
+dracon-gamehub # Opens the Game Hub
+dracon-gamestore # Opens the Dracon Game Store
+dracon-palette # Opens the color palette selector
+dracon-taskmgr # Opens the Task Manager
+dracon-account # Opens the Dracon Account
+dracon fix # Fixes broken commands/shortcuts
+
 ```
 
 ---
 
-## 📄 Licença
+## 📄 License
 
-Software proprietário — uso permitido, modificação e redistribuição **não permitidas**.
-Veja `LICENSE` para os termos completos.
+Proprietary software — use permitted, modification and redistribution **not permitted**.
+
+See `LICENSE` for full terms.
 
 ---
 
 <div align="center">
 
-### 🐉 Dracon OS v1.3.0 — Desktop na Palma da Sua Mão
+### 🐉 Dracon OS v1.3.0 — Desktop in the Palm of Your Hand
 
 **Made with ❤️ — All Rights Reserved © 2026**
 
-</div>
+</div> 
