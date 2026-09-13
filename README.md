@@ -19,22 +19,31 @@
 
 ---
 
-## 🆕 O que há de novo na v1.3.0
+## 🆕 What's New in v1.3.0
 
-| Recurso | Descrição |
+| Feature | Description |
+
 |---|---|
-| 🐛 **`dracon start` corrigido** | Bug que impedia o boot foi resolvido — instalador reescrito |
-| 📊 **Barra de Tarefas** | Taskbar real na parte inferior: botão iniciar, apps fixados, janelas abertas, relógio |
-| 🎨 **12 Paletas de Cores** | Alpine, Ocean, Dracula, Cyberpunk, Nord, Tokyo Night e mais |
-| 🎮 **Dracon Game Store** | Loja dedicada a jogos, separada da Dracon Store |
-| 🕹️ **3 Jogos Nativos** | Snake, Tetris e Pong — jogáveis direto no terminal |
-| 🎯 **Game Hub** | Central com preview, nota e recorde de cada jogo |
-| 📊 **Task Manager** | Veja e finalize processos travados |
-| 🔐 **Racazu Account** | Login/cadastro integrado (Firebase) para sincronizar no futuro |
+
+| 🐛 **`dracon start` fixed** | Bug preventing boot has been resolved — installer rewritten |
+
+| 📊 **Taskbar** | Real taskbar at the bottom: start button, pinned apps, open windows, clock |
+
+| 🎨 **12 Color Palettes** | Alpine, Ocean, Dracula, Cyberpunk, Nord, Tokyo Night and more |
+
+| 🎮 **Dracon Game Store** | Dedicated game store, separate from the Dracon Store |
+
+| 🕹️ **3 Native Games** | Snake, Tetris and Pong — playable directly in the terminal |
+
+| 🎯 **Game Hub** | Central hub with preview, rating and record for each game |
+
+| 📊 **Task Manager** | View and terminate stuck processes |
+
+| 🔐 **Racazu Account** | Integrated login/registration (Firebase) for future synchronization |
 
 ---
 
-## 🚀 Instalação (do zero — não precisa de versão anterior)
+## 🚀 Installation (from scratch — no previous version needed)
 
 ```bash
 git clone https://github.com/paulocarvalhof/Dracon-OS
@@ -43,13 +52,13 @@ bash install.sh
 dracon start
 ```
 
-Depois conecte no **RealVNC Viewer** → `localhost:5901`
+Then connect to **RealVNC Viewer** → `localhost:5901`
 
-> Se `dracon start` não funcionar por algum motivo, rode `dracon fix` e tente de novo.
+> If `dracon start` doesn't work for some reason, run `dracon fix` and try again.
 
 ---
 
-## 🔄 Atualizando de v1.2.0 → v1.3.0
+## 🔄 Updating from v1.2.0 → v1.3.0
 
 ```bash
 cd Dracon-OS
@@ -59,7 +68,7 @@ cd DraconOS-v1.3.0
 bash tools/update-v1.3.0.sh
 dracon restart
 ```
-
+ 
 ---
 
 ## 🎮 Jogos disponíveis
